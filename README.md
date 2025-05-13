@@ -27,7 +27,7 @@ pip install requests
 Clone o repositório:
 
 ```bash
-git clone https://github.com/Andreyftg/ForceDir
+git clone https://github.com/AndreyFreitaz/ForceDir
 cd ForceDir
 python3 forcedir.py
 ```
